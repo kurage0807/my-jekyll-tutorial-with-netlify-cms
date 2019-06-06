@@ -7,5 +7,9 @@ layout: home
 ### css
 フッターが青色ならcssが読み込めているよ
 
-### これは[v1.0.0]()です
- - [v1.0.1へのリンク]()
+### このブランチは[v1.0.0](https://kurage0807-v1-0-0.netlify.com/)です
+ - [master](https://kurage0807-master.netlify.com/)
+ - [v1.0.1](https://kurage0807-v1-0-1.netlify.com/)
+ - [v1.0.0](https://kurage0807-v1-0-0.netlify.com/)
+
+ 
