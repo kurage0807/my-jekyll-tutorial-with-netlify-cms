@@ -6,6 +6,8 @@ title: About
 # About page
 
 This page tells you a little bit about me.
+## site split ->v1.0.1
+
 
 # ブランチごとにデプロイにチャレンジ
 ## このブランチはv1.0.1です
