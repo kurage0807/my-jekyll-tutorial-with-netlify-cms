@@ -1,0 +1,4 @@
+SetEnvIf Referer "^https://nervous-swirles-c6b6c7\.netlify\.com" mysite
+Order Deny,Allow
+Deny from all
+Allow from env=mysite
